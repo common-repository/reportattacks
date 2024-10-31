@@ -1,0 +1,866 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ReportAttacks\n"
+"POT-Creation-Date: 2019-07-24 14:03+0100\n"
+"PO-Revision-Date: 2021-04-25 11:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;_x;_nx;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.5.2; wp-5.7.1"
+
+#: includes/feedback/feedback-last.php:47
+msgid "(In this case, we are unable to email you)"
+msgstr "(In diesem Fall können wir keine E-Mail senden)"
+
+#: settings/options/plugin_options_tabbed.php:27
+msgid ""
+"Add extra login protection when ip is not withelisted? (Will request your "
+"WordPress email at login)"
+msgstr ""
+"Füge zusätzlichen Anmeldeschutz hinzu? (Du musst Deine E-Mail Adresse "
+"eingeben)"
+
+#: functions/functions.php:188
+msgid ""
+"Add this IP to your withelist to stop this email and change your "
+"Notification Settings."
+msgstr ""
+"Füge diese IP Deiner Whitelist hinzu, um diese Benachrichtigung zu stoppen "
+"und ändere Deine Benachrichtigungseinstellungen."
+
+#: settings/options/plugin_options_tabbed.php:129
+msgid "Add your current ip to your whitelist, then click SAVE CHANGES."
+msgstr ""
+"Füge Deine aktuelle IP zur Whitelist hinzu und klicke auf [Änderungen "
+"Speichern]"
+
+#: guide/guide.php:16
+#| msgid ""
+#| " After receive the Blocklist email with your API KEY, go to Blocklist "
+#| "Settings Tab and fill out your free API info. Check Yes to begin to "
+#| "report attacks. We can report attacks when the same IP attempt attacks "
+#| "you more than 5 times. "
+msgid ""
+"After receive the Blocklist email with your API KEY, go to Blocklist "
+"Settings Tab and fill out your free API info. Check Yes to begin to report "
+"attacks. We can report attacks when the same IP attempt attacks you more "
+"than 5 times. "
+msgstr ""
+"Nachdem Du die Blocklist E-Mail mit Deinem API KEY bekommen hast, gehe zum "
+"[Blocklist Einstellungen]-Tab und fülle die entsprechenden Felder aus. Dann "
+"wähle Ja, um Attacken an Blocklist zu übermitteln, die mehr als fünf mal "
+"aufgetreten sind."
+
+#: settings/options/plugin_options_tabbed.php:177
+msgid "Alert me All Successfull Login"
+msgstr "Benachrichtige mich bei allen erfolgreichen Anmeldungen"
+
+#: settings/options/plugin_options_tabbed.php:188
+msgid "Alert me All Times Firewall Block Something."
+msgstr "Benachrichtige mich, wenn die Firewall etwas blockiert hat."
+
+#: settings/options/plugin_options_tabbed.php:168
+msgid "Alert me by email each Failed Login"
+msgstr "Benachrichtige mich bei jedem fehlgeschlagenem Anmeldeversuch"
+
+#: functions/functions.php:86
+msgid "Alert: New Plugin was installed at"
+msgstr "Benachrichtige mich, wenn ein neues Plugin installiert wurde"
+
+#: functions/functions.php:71
+msgid "Alert: New Plugin was installed."
+msgstr "Achtung: Neues Plugin installiert"
+
+#: functions/functions.php:322
+msgid ""
+"Alert: the Report Attacks plugin was been deactivated from plugins page."
+msgstr "Achtung: Report Attacks Plugin wurde deaktiviert."
+
+#: includes/get-api-key/getapikey.php:246
+msgid "All 3 fields are required"
+msgstr "Alle drei Felder werden benötigt"
+
+#: guide/guide.php:37
+#| msgid ""
+#| " At eMail Settings tab, you can customize your contact email or left "
+#| "blank to use your wordpress eMail."
+msgid ""
+"At eMail Settings tab, you can customize your contact email or left blank to "
+"use your wordpress eMail."
+msgstr ""
+"Im [E-Mail Einstellungen]-Tab kannst Du eine alternative Adresse angeben."
+
+#: guide/guide.php:42
+#| msgid ""
+#| " At Notification Settings Tab, you can record your option by receive or "
+#| "not email alerts about failed logins and Firewall Blocks."
+msgid ""
+"At Notification Settings Tab, you can record your option by receive or not "
+"email alerts about failed logins and Firewall Blocks."
+msgstr ""
+"Im [Benachrichtigungseinstellungen]-Tab kannst Du einstellen über welche "
+"Angriffe Du informiert werden willst."
+
+#. Author of the plugin
+msgid "Bill Minozzi"
+msgstr "Bill Minozzi"
+
+#: settings/options/plugin_options_tabbed.php:204
+msgid "Blocklist API KEY"
+msgstr "Blocklist API KEY"
+
+#: settings/options/plugin_options_tabbed.php:197
+#: settings/options/plugin_options_tabbed.php:199
+msgid "Blocklist Instructions"
+msgstr "Blocklist Anleitung"
+
+#: settings/options/plugin_options_tabbed.php:209
+msgid "Blocklist Sender-Address"
+msgstr "Blocklist Absender-Adresse"
+
+#: settings/options/plugin_options_tabbed.php:197
+#: settings/options/plugin_options_tabbed.php:199
+#: settings/options/plugin_options_tabbed.php:226
+msgid "Blocklist Settings"
+msgstr "Blocklist Einstellungen"
+
+#: settings/options/plugin_options_tabbed.php:226
+msgid "Blocklist Settings and Notifications"
+msgstr "Blocklist Einstellungen und Benachrichtigungen"
+
+#: includes/get-api-key/getapikey.php:219
+msgid "Blocklist User Name *"
+msgstr "Blocklist Benutzername *"
+
+#: functions/functions.php:79 functions/functions.php:179
+#: functions/functions.php:330
+msgid "by Report Attacks plugin."
+msgstr "vom Report Attacks Plugin."
+
+#: functions/functions.php:401
+msgid "by ReportAttacks plugin."
+msgstr "vom Report Attacks Plugin."
+
+#: includes/feedback/feedback-last.php:51
+msgid "Cancel Deactivation"
+msgstr "Deaktivierung rückgängig machen"
+
+#: includes/get-api-key/getapikey.php:214
+msgid "Check also your spam folder."
+msgstr "Schaue auch in Deinen Spam-Ordner"
+
+#: includes/get-api-key/getapikey.php:88
+msgid "Check your eMail account for email from Blocklist.de"
+msgstr "Schaue in Deinen E-Mail Postfach nach der Blocklist E-Mail"
+
+#: includes/list-tables/class-reportattacks-list-table.php:22
+msgctxt "Column label"
+msgid "date and time"
+msgstr "Datum und Uhrzeit"
+
+#: includes/list-tables/class-reportattacks-list-table.php:23
+msgctxt "Column label"
+msgid "ip"
+msgstr "IP"
+
+#: includes/list-tables/class-reportattacks-list-table.php:25
+msgctxt "Column label"
+msgid "reported"
+msgstr "Gemeldet"
+
+#: includes/list-tables/class-reportattacks-list-table.php:24
+msgctxt "Column label"
+msgid "user"
+msgstr "Benutzer"
+
+#: functions/health.php:62
+msgid "Critical"
+msgstr "Kritisch"
+
+#: settings/options/plugin_options_tabbed.php:137
+msgid "Customized whitelist"
+msgstr "Angepasste Whitelist"
+
+#: functions/functions.php:414
+msgid "Dashboard => Report Attacks => Notifications Settings."
+msgstr "Dashboard => Report Attacks => Benachrichtigungseinstellungen."
+
+#: functions/functions.php:687 functions/functions.php:710
+msgid "Dashboard => Report Attacks => Settings."
+msgstr "Dashboard => Report Attacks => Allgemeine Einstellungen."
+
+#: functions/functions.php:75 functions/functions.php:181
+#: functions/functions.php:324 functions/functions.php:402
+#: functions/functions.php:680 functions/functions.php:703
+msgid "Date"
+msgstr "Datum"
+
+#: functions/functions.php:677 functions/functions.php:700
+msgid "Detected Bot on "
+msgstr "Bot gefunden auf"
+
+#: settings/options/plugin_options_tabbed.php:91
+msgid "Disable file editing within the WordPress dashboard"
+msgstr "Deaktiviere Dateibearbeitung im WordPress Dashboard"
+
+#: settings/options/plugin_options_tabbed.php:55
+msgid ""
+"Disable Json WordPress Rest API (also new WordPress 4.7 Rest API). Take a "
+"look our faq page (at our site) for details."
+msgstr ""
+"Deaktiviere Json WordPress Rest API (ebenfalls WordPress 4.7 Rest API). Bei "
+"Fragen, schaue auf unsere FAQ-Seite auf auserer Homepage."
+
+#: settings/options/plugin_options_tabbed.php:45
+msgid ""
+"Disable xml-rpc API. Take a look our faq page (at our site) for details."
+msgstr ""
+"Deaktiviere xml-rpc API. Schaue auf unsere FAQ Seite für weitere Details."
+
+#: settings/options/plugin_options_tabbed.php:159
+msgid "Do you want receive email alerts for each login attempt?"
+msgstr "Willst Du eine E-Mail pro Anmeldeversuch?"
+
+#: functions/functions.php:76 functions/functions.php:183
+#: functions/functions.php:326 functions/functions.php:404
+msgid "Domain"
+msgstr "Domain"
+
+#: settings/options/plugin_options_tabbed.php:156
+#: settings/options/plugin_options_tabbed.php:158
+#: settings/options/plugin_options_tabbed.php:196
+msgid "email"
+msgstr "E-Mail"
+
+#: functions/functions.php:684 functions/functions.php:707
+msgid "eMail sent by Report Attacks Plugin."
+msgstr "E-Mail gesendet von Report Attacks Plugin."
+
+#: settings/options/plugin_options_tabbed.php:158
+msgid "Email Settings"
+msgstr "E-Mail Einstellungen"
+
+#: includes/get-api-key/getapikey.php:114
+#: includes/get-api-key/getapikey.php:120
+msgid "Empty eMail. Please fill out eMail field"
+msgstr "Leere E-Mail. Bitte füll das entsprechende Feld aus."
+
+#: includes/get-api-key/getapikey.php:135
+#: includes/get-api-key/getapikey.php:142
+msgid "Empty Username. Please, fill out username field"
+msgstr "Leerer Benutzername. Bitte füll das entsprechende Feld aus."
+
+#: settings/options/plugin_options_tabbed.php:104
+msgid "Enable dashboard warning message when Debug is true"
+msgstr "Aktiviere Dashboard-Warnung, wenn WordPress im DEBUG-Modus ist."
+
+#: settings/options/plugin_options_tabbed.php:115
+msgid ""
+"Enable Firewall? (Block Malicious Requests, Queries, User Agents and URLS. "
+"100% Plug-n-play, no configuration required.)"
+msgstr ""
+"Aktiviere Firewall? (Block Malicious Requests, Queries, User Agents and URLS."
+" 100% Plug-n-play, keine Konfiguration nötig.)"
+
+#: functions/functions.php:409
+msgid "Failed login"
+msgstr "Fehlgeschlagener Anmeldeversuch"
+
+#: functions/functions.php:421
+msgid "Failed Login at"
+msgstr "Fehlgeschlagener Anmeldeversuch an"
+
+#. $parent_slug
+#. string $page_title
+#: functions/functions.php:202 functions/functions.php:203
+msgid "Failed Logins Table"
+msgstr "Fehlgeschlagene Logins"
+
+#: guide/guide.php:59
+msgid "FAQ Page"
+msgstr "FAQ Seite"
+
+#: settings/options/plugin_options_tabbed.php:146
+msgid ""
+"Fill out the email address to send messages. Left Blank to use your default "
+"Wordpress email."
+msgstr ""
+"E-Mail Adresse an die die Benachrichtigungen gesendet werden. Leer lassen um "
+"die normale WordPress Adresse zu nutzen"
+
+#: includes/get-api-key/getapikey.php:209
+msgid "Fill Out this form to Get your free Blocklist API KEY"
+msgstr ""
+"Fülle die Felder aus, um Deinen kostenlosen Blocklist Zugang zu bekommen"
+
+#: functions/functions.php:636
+msgid "For details and help, take a look at Report Attacks at your left menu"
+msgstr ""
+"Für weitere Details und Hilfe, schaue unter Report Attacks in Deinem Menü "
+"auf der linken Seite"
+
+#: functions/functions.php:366
+msgid "for more details and online guide."
+msgstr "für mehr Details und Online Leitfaden."
+
+#: guide/guide.php:24
+msgid "For more details, please, visit our FAQ page)."
+msgstr "Für mehr Details, besuch unsere FAQ-Seite)."
+
+#: settings/options/plugin_options_tabbed.php:13
+#: settings/options/plugin_options_tabbed.php:127
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: includes/feedback/feedback.php:52
+msgid ""
+"Hi, my name is Bill Minozzi, and I am developer of plugin Report Attacks."
+msgstr ""
+"Hallo, meine Name ist Bill Minozzi und ich bin der Entwickler von Report "
+"Attacks."
+
+#: includes/feedback/feedback-last.php:39
+msgid ""
+"Hi, my name is Bill Minozzi, and I am developer of plugin ReportAttacks."
+msgstr ""
+"Hallo, meine Name ist Bill Minozzi und ich bin der Entwickler von Report "
+"Attacks."
+
+#: settings/options/plugin_options_tabbed.php:36
+msgid "Hides all the site (included the login page) to reported IP's?"
+msgstr ""
+"Verweigere den Zugriff von allen gemeldeten IPs? (Inklusive der Anmeldeseite)"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://reportattacks.com"
+msgstr "http://reportattacks.com"
+
+#: includes/get-api-key/getapikey.php:241
+msgid "I read and agree with the terms of service (below) of Blocklist.de"
+msgstr ""
+"Ich habe die Blocklist.de Nutzungsbedingungen (unten) gelesen und stimme "
+"diesen zu"
+
+#: functions/functions.php:661
+msgid ""
+"if enabled on a production website, it might cause information disclosure, "
+"allowing malicious users to view errors and additional logging information"
+msgstr ""
+"Wenn dieser Modus auf einer Produktiv-Seite eingeschaltet ist, erlaubt dies "
+"möglicherweise das Ausspähen von sensiblen Daten Deiner Seite."
+
+#: settings/options/plugin_options_tabbed.php:131
+msgid "If necessary add more than one, use only one ip by line."
+msgstr "Falls notwendig, füge weitere hinzu. Nur eine pro Zeile"
+
+#: includes/feedback/feedback-last.php:38
+msgid ""
+"If you have a moment, Please, let us know you and why you are deactivating."
+msgstr ""
+"Wenn Du einen Monent Zeit hast, sag uns doch bitte, warum Du das Plugin "
+"deaktiviert hast."
+
+#: includes/feedback/feedback-last.php:41
+msgid ""
+"If you Kindly tell us the reason so we can improve it and maybe give some "
+"support by email to you."
+msgstr ""
+"Könntest Du uns freundlicherweise den Grund nennen, so dass wir weitere "
+"Verbesserungen hinzufügen können und ggf. Dich per E-Mail unterstützen "
+"können."
+
+#: includes/feedback/feedback.php:54
+msgid ""
+"If you like this plugin, please write a few words about it. It will help "
+"other people find this useful plugin more quickly."
+msgstr ""
+"Wenn Dir dieses Plugin gefällt, schreib doch bitte ein paar Worte darüber. "
+"Das hilft Anderen, dieses hilfreiche Plugin schneller zu finden."
+
+#: settings/options/plugin_options_tabbed.php:161
+msgid "If you under bruteforce attack, you will receive a lot of emails."
+msgstr "Bei einer Brute-Force Attacke erhältst Du sehr viele E-Mails"
+
+#: guide/guide.php:30
+#| msgid " Important: Add your's  IP address to MY IP White List."
+msgid "Important: Add your's  IP address to MY IP White List."
+msgstr "Wichtig: Füge Deine eigene IP zur Whitelist hinzu."
+
+#: functions/functions.php:358
+msgid "Improve system security and report login brute force attack."
+msgstr ""
+"Erhöhte Systemsicherheit und Benachrichtigungen bei Brute-Force Attacken."
+
+#: settings/options/plugin_options_tabbed.php:13
+msgid "Instructions"
+msgstr "Anleitung"
+
+#: includes/get-api-key/getapikey.php:124
+msgid "Invalid eMail"
+msgstr "Ungültige E-Mail Adresse"
+
+#: includes/get-api-key/getapikey.php:154
+msgid ""
+"Invalid Username. You can use only normal characters - A to Z - (also "
+"numbers and underscore) of the English alphabet"
+msgstr ""
+"Ungültiger Benutzername. Nur Buchstaben des Englischen Alphabets, Zahlen "
+"oder Unterstrich verwenden."
+
+#: functions/functions.php:182 functions/functions.php:325
+#: functions/functions.php:403
+msgid "Ip"
+msgstr "IP"
+
+#: includes/list-tables/class-reportattacks-list-table.php:73
+msgctxt "List table bulk action"
+msgid "Delete"
+msgstr "Löschen"
+
+#: functions/functions.php:195
+msgid "Login Successful at"
+msgstr "Erfolgreiches Anmelden an"
+
+#: functions/functions.php:659
+msgid "Looks like Debug mode is enabled. (WP_DEBUG is true)"
+msgstr "Es scheint, als ob der DEBUG-Modus aktiviert ist. (WP_DEBUG is true)"
+
+#: functions/health.php:67
+msgid "Low WordPress Memory Limit in wp-config file"
+msgstr "Niedriges Speicherlimit in der wp-config Datei"
+
+#: functions/functions.php:678 functions/functions.php:701
+msgid "Malicious bot was detected and blocked by firewall."
+msgstr "Schädlicher Bot gefunden und durch die Firewall blockiert."
+
+#: functions/functions.php:682
+msgid "Malicious String Found:"
+msgstr "Schädlicher Ausdruck gefunden:"
+
+#: functions/functions.php:705
+msgid "Malicious User Agent Found:"
+msgstr "Schädlicher User Agent gefunden:"
+
+#: functions/functions.php:657
+msgid "Message from Report Attacks Plugin"
+msgstr "Nachricht von Report Attacks Plugin"
+
+#: includes/get-api-key/getapikey.php:225
+msgid "Min size 5 max 20"
+msgstr "Minimum 5, Maximum 20"
+
+#: settings/options/plugin_options_tabbed.php:137
+#: settings/options/plugin_options_tabbed.php:142
+#: settings/options/plugin_options_tabbed.php:144
+msgid "My IP White List"
+msgstr "IP Whitelist"
+
+#: functions/health.php:48
+msgid "My Memory Test"
+msgstr "Mein Speichertest"
+
+#: functions/functions.php:556
+msgid "My WordPress user email"
+msgstr "Deine WordPress Benutzer E-Mail Adresse"
+
+#: functions/functions.php:73
+msgid "New Plugin Name"
+msgstr "Name des neuen Plugins"
+
+#: settings/options/plugin_options_tabbed.php:49
+#: settings/options/plugin_options_tabbed.php:58
+#: settings/options/plugin_options_tabbed.php:67
+#: settings/options/plugin_options_tabbed.php:76
+#: settings/options/plugin_options_tabbed.php:85
+#: settings/options/plugin_options_tabbed.php:94
+#: settings/options/plugin_options_tabbed.php:107
+#: settings/options/plugin_options_tabbed.php:118
+#: settings/options/plugin_options_tabbed.php:191
+msgid "No"
+msgstr "Nein"
+
+#: settings/options/plugin_options_tabbed.php:21
+#: settings/options/plugin_options_tabbed.php:30
+#: settings/options/plugin_options_tabbed.php:39
+msgid "no"
+msgstr "nein"
+
+#: settings/options/plugin_options_tabbed.php:180
+msgid "No, Alert me Only Not White listed"
+msgstr "Nein, nur nicht in der Whitelist stehende"
+
+#: includes/feedback/feedback.php:61
+msgid "No, dismiss"
+msgstr "Nein, verwerfen"
+
+#: includes/feedback/feedback-last.php:52
+msgid "No, Just Deactivate it"
+msgstr "Nein."
+
+#: settings/options/plugin_options_tabbed.php:171
+#: settings/options/plugin_options_tabbed.php:217
+msgid "No."
+msgstr "Nein."
+
+#: settings/options/plugin_options_tabbed.php:163
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+#: settings/options/plugin_options_tabbed.php:163
+#: settings/options/plugin_options_tabbed.php:196
+msgid "Notifications Settings"
+msgstr "Benachrichtigungseinstellungen"
+
+#: guide/guide.php:57
+msgid "OnLine Guide"
+msgstr "Online Leitfaden"
+
+#: guide/guide.php:20
+#| msgid ""
+#| " Open the Plugin General Settings Tab and click over Yes  (to begin to "
+#| "record failed login attempts)."
+msgid ""
+"Open the Plugin General Settings Tab and click over Yes  (to begin to record "
+"failed login attempts)."
+msgstr ""
+"Öffne das [Allgemeine Einstellungen]-Tab und klicke auf Ja, um die "
+"Speicherung von fehlgeschlagenen Anmeldeversuchen zu starten."
+
+#: guide/guide.php:11
+#| msgid ""
+#| " Open the Request API Key page (under Report Attacks Menu) and follow the "
+#| "instructions to get your free API KEY."
+msgid ""
+"Open the Request API Key page (under Report Attacks Menu) and follow the "
+"instructions to get your free API KEY."
+msgstr ""
+"Um Deinen kostenlosen API KEY zu erhalten, öffne [API KEY anfordern] Menü "
+"auf der linken Seite und folge den Anweisungen."
+
+#: includes/feedback/feedback.php:62
+msgid "or"
+msgstr "oder"
+
+#: functions/functions.php:638
+msgid "or click here"
+msgstr "oder klicke hier"
+
+#: functions/functions.php:369
+msgid "Overview"
+msgstr "Übersicht"
+
+#: functions/functions.php:663
+msgid ""
+"Please, take a look in our site, FAQ page, item => Wordpress Debug Mode or "
+"disable this message at General Settings Tab. "
+msgstr ""
+"Bitte schaue auf unsere FAQ-Seite unter Wordpress Debug Mode oder "
+"deaktiviere diese Meldung im Allgemeine-Einstellungen-Tab."
+
+#: reportattacks.php:62
+msgid "Please, take a look in our site, Online Guide, item => Plugin Language"
+msgstr "Bitte schaue auf unseren Online Leitfaden unter Plugin Language"
+
+#: functions/functions.php:364
+msgid "plugin site"
+msgstr "plugin site"
+
+#: functions/functions.php:216
+msgid "Quantity per page"
+msgstr "Anzahl pro Seite"
+
+#: includes/feedback/feedback.php:60
+msgid "Rate or Share"
+msgstr "Bewerte oder teile"
+
+#: functions/functions.php:360
+msgid "Read the StartUp guide at Report Attacks Settings page."
+msgstr "Lese den Leitfaden auf der Report Attacks Einstellungs-Seite"
+
+#: settings/options/plugin_options_tabbed.php:18
+msgid "Record all failed login not included at IP White List?"
+msgstr ""
+"Speichere alle fehlgeschlagenen Anmeldeversuche, die nicht in der Whitelist "
+"stehen?"
+
+#: includes/get-api-key/getapikey.php:90
+msgid "Registration fail. Please, try again"
+msgstr "Registrierung fehlgeschlagen, bitte versuch es erneut"
+
+#: includes/get-api-key/getapikey.php:45
+msgid "Registration fail. Please, try again. Error:  "
+msgstr "Registrierung fehlgeschlagen, bitte versuch es erneut. Fehler:"
+
+#: guide/guide.php:47
+msgid "Remember to click Save Changes before to left each tab."
+msgstr ""
+"Denk daran, auf [Änderungen Speichern] zu klicken, bevor Du einen "
+"Einstellungs-Tab verlässt."
+
+#: includes/feedback/feedback.php:63
+msgid "Remind me later"
+msgstr "Später erinnern"
+
+#: settings/options/plugin_options_tabbed.php:214
+msgid "Report Attacks (failed logins) to Blocklist.de ?"
+msgstr "Melde Angriffe an Blocklist.de?"
+
+#: functions/functions.php:633
+msgid "Report Attacks Plugin was activated!"
+msgstr "Report Attacks Plugin wurde aktiviert"
+
+#: reportattacks.php:60
+msgid ""
+"Report Attacks Plugin: Could not load the localization file (Language file)"
+msgstr ""
+"Report Attacks Plugin: Could not load the localization file (Language file)"
+
+#. Description of the plugin
+msgid ""
+"Report login brute force attacks and improve login security. Firewall "
+"Included."
+msgstr ""
+"Melde Brute Force Angriffe und erhöhe die Sicherheit bei Anmeldungen. "
+"Firewall inklusive."
+
+#. Name of the plugin
+msgid "reportattacks"
+msgstr "reportattacks"
+
+#. $parent_slug
+#. string $page_title
+#: includes/get-api-key/getapikey.php:10 includes/get-api-key/getapikey.php:11
+msgid "Request API Key"
+msgstr "API KEY anfordern"
+
+#: includes/get-api-key/getapikey.php:212
+msgid "Request once, then check your eMail account for email from Blocklist.de"
+msgstr "Einmal anfordern, und schaue dann in Dein E-Mail Postfach"
+
+#: functions/functions.php:681 functions/functions.php:704
+msgid "Robot IP Address"
+msgstr "Robot IP Adresse"
+
+#: functions/health.php:70
+msgid ""
+"Run your site with low memory available, can result in behaving slowly, or "
+"pages fail to load, you get random white screens of death or 500 internal "
+"server error. Basically, the more content, features and plugins you add to "
+"your site, the bigger your memory limit has to be. Increase the WP Memory "
+"Limit is a standard practice in WordPress. You can manually increase memory "
+"limit in WordPress by editing the wp-config.php file. You can find "
+"instructions in the official WordPress documentation (Increasing memory "
+"allocated to PHP). Just click the link below: "
+msgstr ""
+"WordPress mit zu wenig Speicher zu betreiben, kann in langsamen Seitenaufbau "
+"oder in einer 500-Fehler-Meldung enden. Die Speichereinstellungen können "
+"manuell in der wp-config-Datei erfolgen. Folge einfach dem Link unten:"
+
+#: settings/options/plugin_options_tabbed.php:64
+msgid "Sets WordPress to automatically download and install plugin updates."
+msgstr "Aktiviere WordPress' Automatischen Download und Update für Plugins."
+
+#: settings/options/plugin_options_tabbed.php:73
+msgid "Sets WordPress to automatically download and install themes updates."
+msgstr "Aktiviere WordPress' Automatischen Download und Update für Themes."
+
+#: settings/options/plugin_options_tabbed.php:82
+msgid ""
+"Sets WordPress to replace the login error message to Wrong Username or "
+"Password"
+msgstr "Unterdrücke die WordPress-Meldung bei fehlgeschlagenen Anmeldungen"
+
+#: settings/options/plugin_options_tabbed.php:5
+#: settings/options/plugin_options_tabbed.php:7
+#: settings/options/plugin_options_tabbed.php:7
+msgid "Startup Guide"
+msgstr "Leitfaden"
+
+#: guide/guide.php:61
+msgid "Support Page"
+msgstr "Hilfe Seite"
+
+#: includes/feedback/feedback-last.php:43
+msgid "Thank You!"
+msgstr "Danke!"
+
+#: includes/feedback/feedback.php:56
+msgid "Thank you!"
+msgstr "Danke!"
+
+#: guide/guide.php:68
+msgid "That is all."
+msgstr "Das ist alles!"
+
+#: settings/options/plugin_options_tabbed.php:11
+msgid "Then click SAVE CHANGES."
+msgstr "Dann klicke auf [Änderungen Speichern]"
+
+#: settings/options/plugin_options_tabbed.php:150
+msgid "Then, click save changes."
+msgstr "Dann klicke auf [Änderungen Speichern]"
+
+#: functions/functions.php:78 functions/functions.php:177
+#: functions/functions.php:329
+msgid "This email was sent from your website"
+msgstr "Diese E-Mail wurde von Deiner Webseite gesendet"
+
+#: functions/functions.php:400
+msgid "This email was sent from your website "
+msgstr "Diese E-Mail wurde von Deiner Webseite gesendet"
+
+#: includes/get-api-key/getapikey.php:223
+msgid ""
+"To create your user name, you can use only normal characters - A to Z - "
+"(also numbers and underscore) of the English alphabet."
+msgstr ""
+"Um Deinen Benutzernamen zu erstellen, benutze bitte nur Buchstaben des "
+"Englischen Alphabets, Zahlen oder den Unterstrich."
+
+#: settings/options/plugin_options_tabbed.php:198
+msgid ""
+"To get your free Blocklist API Key, go to Request API Key page under the "
+"Repport Attacks menu and follow the instructions there."
+msgstr ""
+"Um Deinen kostenlosen API KEY zu erhalten, öffne [API KEY anfordern] im Menü "
+"auf der linken Seite und folge den Anweisungen."
+
+#: guide/guide.php:52
+msgid "To manage the failed login's table, go to Failed Logins Table"
+msgstr ""
+"Um die fehlgeschlagenen Versuche anzusehen oder zu bearbeiten, gehe zu "
+"Failed Logins Table im Menü auf der linken Seite"
+
+#: includes/get-api-key/getapikey.php:231
+msgid "Type here your email"
+msgstr "Deine E-Mail Adresse"
+
+#: includes/get-api-key/getapikey.php:220
+msgid "Type here your username"
+msgstr "Dein Benutzername"
+
+#: includes/feedback/feedback-last.php:45
+msgid "type here yours sugestions ..."
+msgstr "Dein Vorschlag"
+
+#: functions/functions.php:184 functions/functions.php:327
+#: functions/functions.php:405
+msgid "User"
+msgstr "Benutzer"
+
+#: includes/get-api-key/getapikey.php:147
+msgid "Username size need be between 5 and 20"
+msgstr "Länge des Benutzernamens zwischen fünf und 20 Zeichen"
+
+#: includes/get-api-key/getapikey.php:235
+msgid ""
+"Valid email address where you will receive your API KEY from Blocklist.de"
+msgstr ""
+"Bestätigte E-Mail Adresse, unter der Du den API KEY von Blocklist.de "
+"erhalten hast"
+
+#: functions/functions.php:362
+msgid "Visit the"
+msgstr "Besuche die"
+
+#: guide/guide.php:71
+msgid ""
+"We hope our plugin makes the Internet better, safer and helps to clean "
+"infected PCs."
+msgstr ""
+"Wir hoffen unser Plugin macht das Internet besser, sicherer und hilft dabei "
+"infizierte PCs zu säubern."
+
+#: guide/guide.php:22
+msgid "We suggest check Yes for all."
+msgstr "Wir empfehlen Ja für Alles"
+
+#: functions/health.php:75
+msgid "WordPress Help Page"
+msgstr "WordPress Hilfe Seite"
+
+#: reportattacks.php:228
+msgid "Wrong Username or Password"
+msgstr "Falscher Benutzername oder Passwort"
+
+#: settings/options/plugin_options_tabbed.php:66
+#: settings/options/plugin_options_tabbed.php:75
+#: settings/options/plugin_options_tabbed.php:84
+#: settings/options/plugin_options_tabbed.php:93
+#: settings/options/plugin_options_tabbed.php:106
+#: settings/options/plugin_options_tabbed.php:117
+#: settings/options/plugin_options_tabbed.php:190
+msgid "Yes"
+msgstr "Ja"
+
+#: settings/options/plugin_options_tabbed.php:20
+#: settings/options/plugin_options_tabbed.php:29
+#: settings/options/plugin_options_tabbed.php:38
+msgid "yes"
+msgstr "ja"
+
+#: settings/options/plugin_options_tabbed.php:179
+msgid "Yes, All"
+msgstr "Ja, alles"
+
+#: settings/options/plugin_options_tabbed.php:57
+msgid "Yes, disable"
+msgstr "Ja, deaktivieren"
+
+#: settings/options/plugin_options_tabbed.php:47
+msgid "Yes, disable All"
+msgstr "Ja, alle deaktivieren"
+
+#: settings/options/plugin_options_tabbed.php:48
+msgid "Yes, disable only Ping Back"
+msgstr "Ja, nur Ping Back deaktivieren"
+
+#: includes/feedback/feedback-last.php:49
+msgid "Yes, Submit and Deactivate"
+msgstr "Ja, übertragen und deaktivieren."
+
+#: settings/options/plugin_options_tabbed.php:170
+#: settings/options/plugin_options_tabbed.php:216
+msgid "Yes."
+msgstr "Ja."
+
+#: includes/get-api-key/getapikey.php:261
+msgid ""
+"You can also request your free API KEY at: https://www.blocklist."
+"de/en/register.html"
+msgstr ""
+"Du kannst den API KEY auch unter https://www.blocklist.de/de/register.html "
+"anfragen"
+
+#: functions/functions.php:412 functions/functions.php:685
+#: functions/functions.php:708
+msgid "You can stop emails at the Notifications Settings Tab."
+msgstr ""
+"Du kannst die E-Mail Benachrichtigungen auf der Einstellungsseite abschalten"
+
+#: includes/get-api-key/getapikey.php:104
+msgid "You need fill out all fields and accept the Blocklist Terms of Service"
+msgstr ""
+"Bitte fülle alle Felder aus und bestätige die „Blocklist Terms of Service\""
+
+#: settings/options/plugin_options_tabbed.php:9
+msgid "You need only check yes or no below."
+msgstr "Du brauchst unten nur Ja oder Nein zu wählen"
+
+#: settings/options/plugin_options_tabbed.php:134
+msgid "Your current ip is: "
+msgstr "Deine aktuelle IP ist: "
+
+#: includes/get-api-key/getapikey.php:230
+msgid "Your eMail *"
+msgstr "Deine E-Mail Adresse"
